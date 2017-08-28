@@ -18,8 +18,8 @@ setup(
     install_requires=['legobot>=1.1.3',
                       ],
     classifiers=[
-        'License :: MIT',
-
+        'License :: OSI Approved :: MIT License',
+        'Development Status :: 4 - Beta',
         'Programming Language :: Python :: 3'
     ],
     packages=find_packages()
